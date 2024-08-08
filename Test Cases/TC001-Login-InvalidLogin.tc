@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC001-Login-InvalidLogin</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>0c8e47b5-70f6-481f-9ed9-eb8b451826ff</testCaseGuid>
-</TestCaseEntity>
